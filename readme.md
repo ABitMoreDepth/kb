@@ -2,6 +2,10 @@
 
 👋 My personal knowledge base of various bits and pieces.
 
+### Key Notes:
+[[Python]]
+[[Europython]]
+
 ## Getting started
 
 This documentation assumes that you have a GitHub account and have [Visual Studio Code](https://code.visualstudio.com/) installed on your Linux/MacOS/Windows machine.
